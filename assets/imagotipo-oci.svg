@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Imagotipo del Observatorio Cultural Independiente</title>
+  <desc id="desc">Isotipo geométrico acompañado por el nombre institucional.</desc>
+  <image href="isotipo-oci.svg" x="18" y="18" width="264" height="264"/>
+  <text x="330" y="142" fill="#20282b" font-family="Georgia, 'Times New Roman', serif" font-size="75" letter-spacing="-2">OBSERVATORIO CULTURAL</text>
+  <text x="335" y="212" fill="#2f4438" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="15">INDEPENDIENTE</text>
+</svg>
