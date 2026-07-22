@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Isotipo del Observatorio Cultural Independiente</title>
+  <desc id="desc">Símbolo geométrico que integra observación, territorio, archivo y documentación.</desc>
+  <defs>
+    <clipPath id="topography"><path d="M256 58A198 198 0 0 1 454 256H256Z"/></clipPath>
+    <clipPath id="archive"><path d="M256 256H454A198 198 0 0 1 256 454Z"/></clipPath>
+  </defs>
+
+  <path d="M250 74A182 182 0 1 0 250 438" fill="none" stroke="#31443a" stroke-width="62"/>
+  <path d="M268 74A182 182 0 0 1 438 250" fill="none" stroke="#9b9788" stroke-width="62"/>
+
+  <g clip-path="url(#topography)" fill="none" stroke="#f4f1e9" stroke-width="3" opacity=".9">
+    <path d="M274 72c8 58 28 82 82 104 37 15 65 40 88 79"/>
+    <path d="M306 60c-2 52 15 79 67 101 39 16 67 45 87 88"/>
+    <path d="M342 66c-4 35 8 57 42 72 45 20 70 48 80 90"/>
+    <path d="M280 116c45 9 68 27 87 66 17 36 43 58 84 74"/>
+  </g>
+
+  <circle cx="256" cy="256" r="113" fill="none" stroke="#20282b" stroke-width="68" stroke-dasharray="590 120" stroke-dashoffset="-26" transform="rotate(-20 256 256)"/>
+  <circle cx="256" cy="256" r="38" fill="#2f4438"/>
+
+  <g clip-path="url(#archive)" fill="#817f72">
+    <rect x="300" y="295" width="30" height="123"/>
+    <rect x="340" y="295" width="18" height="123"/>
+    <rect x="368" y="295" width="30" height="123"/>
+    <rect x="408" y="295" width="34" height="22"/>
+    <rect x="408" y="327" width="34" height="18"/>
+    <rect x="408" y="355" width="34" height="18"/>
+    <rect x="408" y="383" width="34" height="35"/>
+  </g>
+
+  <path d="M256 48V464" stroke="#2f4438" stroke-width="7"/>
+  <circle cx="256" cy="48" r="14" fill="#2f4438"/>
+  <circle cx="256" cy="464" r="14" fill="#2f4438"/>
+
+  <path d="M408 256H464" stroke="#f4f1e9" stroke-width="35"/>
+  <path d="M48 256H102" stroke="#f4f1e9" stroke-width="35"/>
+</svg>
