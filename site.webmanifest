@@ -1,0 +1,9 @@
+{
+  "name": "Observatorio Cultural Independiente",
+  "short_name": "OCI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#173b32",
+  "icons": []
+}
