@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Para citar el sitio o sus materiales institucionales, utilice esta información y la ficha específica de cada publicación."
+title: "Observatorio Cultural Independiente"
+type: website
+authors:
+  - family-names: "Girolami"
+    given-names: "Fito"
+    orcid: "https://orcid.org/0009-0005-0300-2321"
+  - family-names: "Lucz-Ligeti"
+    given-names: "Catalina"
+    affiliation: "Observatorio Cultural Independiente"
+repository-code: "https://github.com/FitoGirolami/observatorioculturalindependiente.org"
+url: "https://observatorioculturalindependiente.org"
+contact:
+  - name: "Observatorio Cultural Independiente"
+    email: "contacto@observatorioculturalindependiente.org"
+keywords:
+  - cultura viva
+  - memoria territorial
+  - patrimonio cultural inmaterial
+  - turismo cultural
+  - gobernanza cultural
+  - folklore
+  - oralidad
+  - Duendismo Cultural
+license: CC-BY-NC-ND-4.0
