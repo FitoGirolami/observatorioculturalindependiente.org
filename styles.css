@@ -73,9 +73,20 @@ h3 { font-size: 1.65rem; line-height: 1.15; }
 .research-card-accent { background: var(--green); color: var(--white); }
 .research-card-accent p, .research-card-accent > span { color: rgba(255,255,255,.72); }
 
-.publication-placeholder { display: grid; grid-template-columns: 1.1fr .9fr; gap: 4rem; padding: 3rem; border: 1px solid var(--line); background: var(--white); }
-.publication-fields { display: grid; grid-template-columns: repeat(2, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
-.publication-fields span { display: grid; place-items: center; min-height: 92px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: .76rem; letter-spacing: .12em; text-transform: uppercase; }
+.publications { background: var(--white); }
+.archive-summary { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); margin-bottom: 3rem; }
+.archive-summary div { min-height: 130px; padding: 1.6rem; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); display: flex; flex-direction: column; justify-content: space-between; }
+.archive-summary strong { font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.8rem, 3vw, 2.8rem); font-weight: 500; line-height: 1; }
+.archive-summary span { color: var(--muted); font-size: .82rem; letter-spacing: .08em; text-transform: uppercase; }
+.publication-grid { display: grid; grid-template-columns: repeat(2, 1fr); border-top: 1px solid var(--line); border-left: 1px solid var(--line); }
+.publication-card { min-height: 340px; padding: 2rem; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); display: flex; flex-direction: column; }
+.publication-meta { display: flex; justify-content: space-between; gap: 1rem; color: var(--muted); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; }
+.publication-card h3 { margin: 3.5rem 0 1.2rem; font-size: clamp(1.55rem, 2.5vw, 2rem); }
+.publication-card p { color: var(--muted); margin: 0; }
+.publication-authors { margin-top: auto; padding-top: 2rem; font-size: .86rem; font-weight: 700; }
+.archive-action { margin-top: 3rem; padding: 2.5rem; display: grid; grid-template-columns: 1fr auto; gap: 3rem; align-items: center; background: var(--paper-strong); border: 1px solid var(--line); }
+.archive-action h3 { margin-bottom: .7rem; }
+.archive-action p { margin-bottom: 0; color: var(--muted); }
 
 .methodology { background: var(--green); color: var(--white); }
 .methodology-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: 5rem; }
@@ -105,11 +116,12 @@ h3 { font-size: 1.65rem; line-height: 1.15; }
   .site-nav { display: none; }
   .brand { flex-basis: 320px; }
   .hero { padding-top: 5.5rem; }
-  .hero-grid, .statement-grid, .section-heading, .publication-placeholder, .methodology-grid, .contact-grid { grid-template-columns: 1fr; gap: 2.5rem; }
+  .hero-grid, .statement-grid, .section-heading, .methodology-grid, .contact-grid, .archive-action { grid-template-columns: 1fr; gap: 2.5rem; }
   .hero-panel { border-left: 0; border-top: 1px solid var(--line); padding: 2rem 0 0; }
   .hero-symbol { width: 135px; margin-bottom: 1.5rem; }
-  .research-grid { grid-template-columns: repeat(2, 1fr); }
+  .research-grid, .publication-grid { grid-template-columns: repeat(2, 1fr); }
   .evidence-grid { grid-template-columns: repeat(2, 1fr); }
+  .archive-action .button { justify-self: start; }
 }
 
 @media (max-width: 620px) {
@@ -118,10 +130,11 @@ h3 { font-size: 1.65rem; line-height: 1.15; }
   .brand { flex-basis: 248px; }
   h1 { font-size: clamp(3rem, 16vw, 4.7rem); }
   .hero, .section { padding: 4.5rem 0; }
-  .research-grid, .evidence-grid { grid-template-columns: 1fr; }
-  .research-card { min-height: auto; }
+  .research-grid, .publication-grid, .archive-summary, .evidence-grid { grid-template-columns: 1fr; }
+  .research-card, .publication-card { min-height: auto; }
   .research-card h3 { margin-top: 2.7rem; }
-  .publication-placeholder { padding: 1.2rem; }
+  .publication-card h3 { margin-top: 2.3rem; }
+  .archive-action { padding: 1.3rem; }
   .principles-list li { grid-template-columns: 1fr; gap: .35rem; }
   .footer-grid { grid-template-columns: 1fr; }
   .footer-grid > div:last-child { text-align: left; }
