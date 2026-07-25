@@ -1,0 +1,57 @@
+.audio-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.audio-list-item {
+  display: grid;
+  grid-template-columns: 74px minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.audio-list-number {
+  min-height: 74px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  background: var(--green);
+  color: var(--white);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.35rem;
+}
+
+.audio-details {
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.audio-details summary {
+  cursor: pointer;
+  padding: 1rem 0;
+  font-weight: 700;
+}
+
+.audio-details-content {
+  padding: 0 0 1rem;
+  color: var(--muted);
+}
+
+.audio-details-content p {
+  margin: .65rem 0;
+}
+
+@media (max-width: 620px) {
+  .audio-list-item {
+    grid-template-columns: 1fr;
+  }
+
+  .audio-list-number {
+    width: 60px;
+    min-height: 60px;
+  }
+}
