@@ -25,7 +25,16 @@ const formatTime = (seconds) => {
   return `${String(minutes).padStart(2, '0')}:${String(remainingSeconds).padStart(2, '0')}`;
 };
 
-document.querySelectorAll('[data-audio-player]').forEach((player) => {
+const audioPlayers = document.querySelectorAll('[data-audio-player]');
+
+if (audioPlayers.length) {
+  const playerStyles = document.createElement('link');
+  playerStyles.rel = 'stylesheet';
+  playerStyles.href = 'audio-player.css';
+  document.head.appendChild(playerStyles);
+}
+
+audioPlayers.forEach((player) => {
   const audio = player.querySelector('audio');
   const toggle = player.querySelector('.audio-toggle');
   const progress = player.querySelector('.audio-progress');
