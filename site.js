@@ -17,3 +17,10 @@ if (navToggle && siteNav) {
 
 const year = document.getElementById('year');
 if (year) year.textContent = new Date().getFullYear();
+
+// Oculta las opciones de descarga ofrecidas por la interfaz del navegador.
+// El archivo sigue siendo un recurso público necesario para la reproducción web.
+document.querySelectorAll('.protected-audio').forEach((audio) => {
+  audio.addEventListener('contextmenu', (event) => event.preventDefault());
+  audio.addEventListener('dragstart', (event) => event.preventDefault());
+});
