@@ -47,10 +47,18 @@
           <div class="audio-kicker"><span>Análisis histórico y cultural</span><time datetime="2026-07-25">25 jul 2026</time></div>
           <h3>La Virgen de Agua Santa: historia, devoción y construcción de un relato</h3>
           <p>Análisis documental sobre el origen y la evolución del culto, la evangelización dominica, la construcción del relato de aparición y su relación con la memoria, el patrimonio y el turismo de Baños de Agua Santa.</p>
-          <audio class="audio-player protected-audio" controls controlsList="nodownload noplaybackrate" disablePictureInPicture preload="metadata" oncontextmenu="return false;" aria-label="Reproducir el análisis sobre la Virgen de Agua Santa">
-            <source src="audios/analisis-virgen-agua-santa.m4a.mp4" type="audio/mp4">
-            Su navegador no permite reproducir este audio.
-          </audio>
+
+          <div class="custom-audio-player" data-audio-player>
+            <audio class="protected-audio" preload="metadata" oncontextmenu="return false;" aria-label="Análisis sobre la Virgen de Agua Santa">
+              <source src="audios/analisis-virgen-agua-santa.m4a.mp4" type="audio/mp4">
+            </audio>
+            <button class="audio-toggle" type="button" aria-label="Reproducir audio">Reproducir</button>
+            <div class="audio-progress-group">
+              <input class="audio-progress" type="range" min="0" max="100" value="0" step="0.1" aria-label="Posición del audio">
+              <div class="audio-time"><span class="audio-current">00:00</span><span class="audio-duration">31:09</span></div>
+            </div>
+          </div>
+
           <div class="audio-meta" aria-label="Datos del audio">
             <span><strong>Duración</strong>31:09</span>
             <span><strong>Investigación</strong>Fito Girolami</span>
