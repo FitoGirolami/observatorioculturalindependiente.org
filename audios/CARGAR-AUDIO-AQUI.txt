@@ -1,5 +1,0 @@
-Cargue en esta carpeta el archivo de audio con este nombre exacto:
-
-analisis-virgen-agua-santa.m4a
-
-Después de cargarlo, el reproductor del Archivo sonoro podrá publicarse desde el pull request #1.
