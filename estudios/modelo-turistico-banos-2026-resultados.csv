@@ -1,0 +1,16 @@
+tipo,categoria,frecuencia,porcentaje_del_corpus,version,fecha
+postura,Crítica,312,30.5,0.1,2026-07-31
+postura,Defensa,126,12.3,0.1,2026-07-31
+postura,Mixta,38,3.7,0.1,2026-07-31
+postura,Neutral / otra,537,52.5,0.1,2026-07-31
+postura,No clasificable,9,0.9,0.1,2026-07-31
+tema,Naturaleza y conservación,137,13.4,0.1,2026-07-31
+tema,Comparación con otros destinos,98,9.6,0.1,2026-07-31
+tema,"Planificación, regulación y control",82,8.0,0.1,2026-07-31
+tema,"Ruido, alcohol y vida nocturna",72,7.0,0.1,2026-07-31
+tema,"Identidad, memoria y patrimonio",67,6.6,0.1,2026-07-31
+tema,Contaminación visual y paisaje,53,5.2,0.1,2026-07-31
+tema,Beneficios económicos y empleo,53,5.2,0.1,2026-07-31
+tema,Seguridad técnica y accidentes,47,4.6,0.1,2026-07-31
+tema,Seguridad ciudadana,38,3.7,0.1,2026-07-31
+tema,Precios y posibles abusos,28,2.7,0.1,2026-07-31
