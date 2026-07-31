@@ -1,0 +1,63 @@
+{
+  "version": "0.2-preliminar",
+  "fecha": "2026-07-31",
+  "advertencia": "Indicadores automatizados exploratorios. No constituyen resultados definitivos ni una encuesta representativa.",
+  "perfil_corpus": {
+    "corpus_original": 1022,
+    "comentario_inicial_investigador_excluido": 1,
+    "bloques_vacios_excluidos": 7,
+    "comentarios_validos_descriptivos": 1014,
+    "mediana_palabras": 13,
+    "media_palabras": 23.0,
+    "comentarios_10_o_mas_palabras": 600,
+    "comentarios_20_o_mas_palabras": 377,
+    "porcentaje_10_o_mas": 59.2,
+    "porcentaje_20_o_mas": 37.2
+  },
+  "patrones_discursivos": [
+    {"patron": "Naturaleza y conservación", "n": 133, "porcentaje": 13.1},
+    {"patron": "Comparación con otros destinos", "n": 112, "porcentaje": 11.0},
+    {"patron": "Autoridades / planificación / control", "n": 86, "porcentaje": 8.5},
+    {"patron": "Ruido / vida nocturna / alcohol", "n": 71, "porcentaje": 7.0},
+    {"patron": "Seguridad técnica / accidentes", "n": 58, "porcentaje": 5.7},
+    {"patron": "Nostalgia / pérdida del pasado", "n": 42, "porcentaje": 4.1},
+    {"patron": "Seguridad ciudadana", "n": 38, "porcentaje": 3.7},
+    {"patron": "Economía, empleo e inversión", "n": 37, "porcentaje": 3.6},
+    {"patron": "Descalificación personal", "n": 30, "porcentaje": 3.0},
+    {"patron": "Precios y abusos", "n": 30, "porcentaje": 3.0},
+    {"patron": "Elección individual / «hay para todos»", "n": 24, "porcentaje": 2.4},
+    {"patron": "Regulación sin rechazo total", "n": 21, "porcentaje": 2.1},
+    {"patron": "Defensa identitaria / pertenencia", "n": 15, "porcentaje": 1.5},
+    {"patron": "Éxito medido por afluencia", "n": 14, "porcentaje": 1.4},
+    {"patron": "Oferta y demanda / mercado", "n": 14, "porcentaje": 1.4},
+    {"patron": "Crítica entendida como desprestigio", "n": 12, "porcentaje": 1.2},
+    {"patron": "Innovación / copia", "n": 5, "porcentaje": 0.5},
+    {"patron": "Concentración / favoritismo", "n": 4, "porcentaje": 0.4},
+    {"patron": "Agua / saneamiento", "n": 0, "porcentaje": 0.0}
+  ],
+  "destinos_comparados": [
+    {"destino": "Montañita", "n": 47},
+    {"destino": "Mindo", "n": 20},
+    {"destino": "Cuenca", "n": 17},
+    {"destino": "Puyo", "n": 13},
+    {"destino": "Mera", "n": 10},
+    {"destino": "La Maná", "n": 6},
+    {"destino": "Tena", "n": 4},
+    {"destino": "Atacames", "n": 2},
+    {"destino": "Canela", "n": 2},
+    {"destino": "Quilotoa", "n": 1},
+    {"destino": "Otavalo", "n": 1}
+  ],
+  "programa_investigacion": [
+    {"codigo": "OCI-TTR-2026-01A", "titulo": "Posturas y polarización del debate", "estado": "En validación", "objetivo": "Recalcular apoyo, rechazo y posiciones mixtas mediante revisión humana de una muestra y acuerdo entre codificadores."},
+    {"codigo": "OCI-TTR-2026-01B", "titulo": "Marcos discursivos y desplazamiento del problema", "estado": "Base preliminar", "objetivo": "Medir elección individual, éxito por afluencia, crítica como desprestigio, defensa identitaria y naturalización del mercado."},
+    {"codigo": "OCI-TTR-2026-01C", "titulo": "Seguridad, accidentes y demanda de regulación", "estado": "Base preliminar", "objetivo": "Separar seguridad ciudadana, seguridad técnica, mantenimiento, fiscalización y percepción de riesgo."},
+    {"codigo": "OCI-TTR-2026-01D", "titulo": "Naturaleza, paisaje e identidad territorial", "estado": "Base preliminar", "objetivo": "Analizar conservación, contaminación visual, nostalgia, memoria del lugar y límites ambientales."},
+    {"codigo": "OCI-TTR-2026-01E", "titulo": "Economía turística y distribución de beneficios", "estado": "Requiere fuentes externas", "objetivo": "Contrastar empleo e inversión con concentración de beneficios, precios, permisos, acceso de nuevos actores y favoritismo."},
+    {"codigo": "OCI-TTR-2026-01F", "titulo": "Innovación, copia y homogeneización de la oferta", "estado": "Requiere casos documentados", "objetivo": "Estudiar repetición de atractivos, reconocimiento de autoría, incentivos para innovar y barreras de entrada."},
+    {"codigo": "OCI-TTR-2026-01G", "titulo": "Los temas ausentes del debate", "estado": "Hallazgo preliminar", "objetivo": "Examinar la baja presencia de agua, saneamiento, capacidad de carga, participación, gobernanza y tratamiento de aguas residuales."},
+    {"codigo": "OCI-TTR-2026-01H", "titulo": "Cartografía comparativa de destinos", "estado": "Base preliminar", "objetivo": "Analizar por qué Montañita, Mindo, Cuenca, Puyo, Mera y otros destinos funcionan como referencias positivas o negativas."},
+    {"codigo": "OCI-TTR-2026-01I", "titulo": "Modelos internacionales aplicables", "estado": "Investigación comparada", "objetivo": "Comparar Costa Rica, Canela, Iguazú y otros modelos sin copiarlos mecánicamente, identificando instrumentos transferibles."},
+    {"codigo": "OCI-TTR-2026-01J", "titulo": "Propuesta de modelo turístico para Baños", "estado": "Síntesis futura", "objetivo": "Transformar los hallazgos en indicadores, prioridades, reglas de gobernanza y una hoja de ruta pública."}
+  ]
+}
