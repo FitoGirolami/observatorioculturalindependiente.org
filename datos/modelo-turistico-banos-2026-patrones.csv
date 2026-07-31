@@ -1,0 +1,34 @@
+tipo,categoria,n,porcentaje,estado_o_objetivo
+perfil,Comentarios válidos descriptivos,1014,100.0,Excluye comentario inicial del investigador y bloques vacíos
+perfil,Comentarios con 10 o más palabras,600,59.2,Indicador de profundidad textual
+perfil,Comentarios con 20 o más palabras,377,37.2,Indicador de profundidad textual
+patron,Naturaleza y conservación,133,13.1,Detección automatizada preliminar
+patron,Comparación con otros destinos,112,11.0,Detección automatizada preliminar
+patron,Autoridades / planificación / control,86,8.5,Detección automatizada preliminar
+patron,Ruido / vida nocturna / alcohol,71,7.0,Detección automatizada preliminar
+patron,Seguridad técnica / accidentes,58,5.7,Detección automatizada preliminar
+patron,Nostalgia / pérdida del pasado,42,4.1,Detección automatizada preliminar
+patron,Seguridad ciudadana,38,3.7,Detección automatizada preliminar
+patron,"Economía, empleo e inversión",37,3.6,Detección automatizada preliminar
+patron,Descalificación personal,30,3.0,Detección automatizada preliminar
+patron,Precios y abusos,30,3.0,Detección automatizada preliminar
+patron,Elección individual / «hay para todos»,24,2.4,Detección automatizada preliminar
+patron,Regulación sin rechazo total,21,2.1,Detección automatizada preliminar
+patron,Defensa identitaria / pertenencia,15,1.5,Detección automatizada preliminar
+patron,Éxito medido por afluencia,14,1.4,Detección automatizada preliminar
+patron,Oferta y demanda / mercado,14,1.4,Detección automatizada preliminar
+patron,Crítica entendida como desprestigio,12,1.2,Detección automatizada preliminar
+patron,Innovación / copia,5,0.5,Detección automatizada preliminar
+patron,Concentración / favoritismo,4,0.4,Detección automatizada preliminar
+patron,Agua / saneamiento,0,0.0,Detección automatizada preliminar
+destino_comparado,Montañita,47,4.6,Mención literal
+destino_comparado,Mindo,20,2.0,Mención literal
+destino_comparado,Cuenca,17,1.7,Mención literal
+destino_comparado,Puyo,13,1.3,Mención literal
+destino_comparado,Mera,10,1.0,Mención literal
+destino_comparado,La Maná,6,0.6,Mención literal
+destino_comparado,Tena,4,0.4,Mención literal
+destino_comparado,Atacames,2,0.2,Mención literal
+destino_comparado,Canela,2,0.2,Mención literal
+destino_comparado,Quilotoa,1,0.1,Mención literal
+destino_comparado,Otavalo,1,0.1,Mención literal
