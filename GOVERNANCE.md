@@ -41,7 +41,7 @@ Una misma persona puede desempeñar varias funciones mientras la escala del proy
 - **Editoriales:** corresponden a las personas responsables de cada publicación.
 - **Institucionales:** corresponden a la dirección, con consulta documentada cuando afecten al equipo o la identidad del OCI.
 - **Económicas:** requieren presupuesto previo, identificación de la fuente de fondos y registro del destino.
-- **Sensibles:** publicaciones que puedan exponer a personas, fuentes o conflictos deben contar con una segunda revisión.
+- **Sensibles:** las publicaciones que puedan exponer a personas, fuentes o conflictos procurarán una segunda revisión independiente. Cuando no sea posible, deberá documentarse una revisión reforzada antes de publicar.
 - **Correcciones:** se tramitan conforme a la política editorial y deben preservar el historial.
 
 ## 5. Representación pública
