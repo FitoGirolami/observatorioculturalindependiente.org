@@ -37,7 +37,19 @@ Artista chilena, cofundadora de La Casa del Duende y La Aldea Mágica, colaborad
 
 El perfil https://orcid.org/0009-0001-6195-0128 se utiliza provisionalmente como registro documental del **Archivo del Observatorio Cultural Independiente**. No sustituye los ORCID personales de las personas autoras.
 
-El archivo reúne 92 registros visibles publicados entre 2025 y 2026.
+El archivo reúne 93 registros visibles publicados entre 2025 y 2026.
+
+## Gobernanza, participación y sostenibilidad
+
+El funcionamiento institucional se rige por documentos públicos y revisables:
+
+- [Gobernanza](GOVERNANCE.md): funciones, decisiones, representación, incorporación y continuidad.
+- [Cómo colaborar](CONTRIBUTING.md): modalidades, límites, atribución y flujo de contribuciones.
+- [Sostenibilidad](SUSTAINABILITY.md): financiamiento, remuneración, gastos y transparencia.
+- [Cuidados y seguridad](CARE_AND_SAFETY.md): tiempos, fuentes, datos sensibles, riesgos y retiro.
+- [Licencias](LICENSE): condiciones diferenciadas para código, textos, investigaciones y datos.
+
+Ninguna participación implica disponibilidad permanente. Toda tarea debe acordar alcance, plazo, dedicación, reconocimiento y condición económica antes de comenzar.
 
 ## Páginas del sitio
 
