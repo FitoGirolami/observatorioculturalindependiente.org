@@ -117,6 +117,28 @@ Cuando herramientas de inteligencia artificial hayan contribuido de manera susta
 
 Estas herramientas no son autoras. La responsabilidad de verificar fuentes, evitar invenciones, proteger datos y aprobar el texto final corresponde siempre a las personas autoras.
 
-## 12. Criterio final
+## 12. Publicaciones de alto riesgo
+
+Cuando una publicación identifique personas o pueda afectar su honor, reputación, privacidad, seguridad o situación jurídica, debe completarse el registro previo para publicaciones de alto riesgo.
+
+La evaluación debe documentar:
+
+- el interés público de la información;
+- la necesidad de identificar a una persona;
+- la proporcionalidad del detalle publicado;
+- el respaldo exacto de cada afirmación sensible;
+- el estado actual de denuncias, investigaciones, procesos o resoluciones;
+- el derecho de respuesta y los intentos de contacto;
+- el tratamiento de datos personales;
+- los riesgos para fuentes y terceros;
+- la preservación íntegra de la evidencia.
+
+Una denuncia, investigación o acusación nunca debe presentarse como condena o prueba automática de responsabilidad. La falta de respuesta tampoco constituye admisión.
+
+Se debe detener la publicación y buscar revisión jurídica profesional cuando exista imputación de delitos, información filtrada o dudosa, datos sensibles, personas menores de edad, riesgo grave para fuentes, restricciones judiciales o incertidumbre sustantiva sobre la legalidad de publicar.
+
+Este estándar reduce riesgos y demuestra diligencia, pero no constituye asesoramiento jurídico ni garantiza inmunidad frente a reclamos.
+
+## 13. Criterio final
 
 Una publicación del OCI no necesita afirmar más para parecer importante. Necesita mostrar con claridad qué sabe, cómo lo sabe, qué todavía no puede demostrar y quién asume responsabilidad por lo publicado.
