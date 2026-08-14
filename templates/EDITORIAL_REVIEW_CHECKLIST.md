@@ -41,6 +41,17 @@ Marcar cada punto como **Sí**, **No aplica** o **Pendiente**.
 - [ ] Se ofreció derecho de respuesta cuando correspondía.
 - [ ] Los materiales sensibles tienen condiciones claras de custodia y acceso.
 
+## Control reforzado para personas identificables
+
+- [ ] Se completó el [registro previo para publicaciones de alto riesgo](PREPUBLICATION_RISK_RECORD.md), cuando corresponde.
+- [ ] El interés público, la necesidad de identificar y la proporcionalidad están explicados.
+- [ ] Una denuncia, investigación o acusación no se presenta como condena.
+- [ ] Se verificó el estado actual de procesos, resoluciones y documentos citados.
+- [ ] Existe constancia del derecho de respuesta o una razón documentada para no solicitarlo.
+- [ ] La ausencia de respuesta no se interpreta como admisión.
+- [ ] Título, imagen, epígrafe y publicaciones para redes mantienen el mismo nivel de prudencia que el texto.
+- [ ] No existe una señal que obligue a pausar y solicitar revisión jurídica profesional.
+
 ## Referencias y materiales
 
 - [ ] La bibliografía usa un estilo consistente, preferentemente APA 7.
