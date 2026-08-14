@@ -58,6 +58,7 @@ El OCI aplica un criterio proporcional al tipo de publicación: una investigaci�
 - [Estándar académico mínimo](ACADEMIC_STANDARD.md)
 - [Plantilla de investigación](templates/RESEARCH_TEMPLATE.md)
 - [Lista de revisión editorial](templates/EDITORIAL_REVIEW_CHECKLIST.md)
+- [Registro previo para publicaciones de alto riesgo](templates/PREPUBLICATION_RISK_RECORD.md)
 
 ## Páginas del sitio
 
