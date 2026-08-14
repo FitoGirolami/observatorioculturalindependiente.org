@@ -51,13 +51,22 @@ El funcionamiento institucional se rige por documentos públicos y revisables:
 
 Ninguna participación implica disponibilidad permanente. Toda tarea debe acordar alcance, plazo, dedicación, reconocimiento y condición económica antes de comenzar.
 
+## Estándar académico y plantillas
+
+El OCI aplica un criterio proporcional al tipo de publicación: una investigación requiere método y referencias completas; un expediente organiza documentos; un ensayo desarrolla una interpretación; una nota de opinión expresa una posición identificada.
+
+- [Estándar académico mínimo](ACADEMIC_STANDARD.md)
+- [Plantilla de investigación](templates/RESEARCH_TEMPLATE.md)
+- [Lista de revisión editorial](templates/EDITORIAL_REVIEW_CHECKLIST.md)
+- [Registro previo para publicaciones de alto riesgo](templates/PREPUBLICATION_RISK_RECORD.md)
+
 ## Páginas del sitio
 
 - `index.html`: portada y síntesis institucional.
 - `institucional.html`: identidad, estructura, independencia y transparencia.
 - `archivo.html`: catálogo y selección de investigaciones.
 - `equipo.html`: equipo, trayectoria y criterios de autoría.
-- `politica-editorial.html`: metodología, escala de evidencia, correcciones y derecho de respuesta.
+- `politica-editorial.html`: metodología, escala de evidencia, herramientas académicas, correcciones y derecho de respuesta.
 
 ## Identidad visual
 
