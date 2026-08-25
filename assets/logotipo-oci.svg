@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
   <title id="title">Logotipo del Observatorio Cultural Independiente</title>
-  <desc id="desc">Nombre institucional en composición editorial de dos líneas.</desc>
-  <text x="600" y="105" text-anchor="middle" fill="#20282b" font-family="Georgia, 'Times New Roman', serif" font-size="82" letter-spacing="-2">OBSERVATORIO CULTURAL</text>
-  <text x="600" y="166" text-anchor="middle" fill="#2f4438" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="500" letter-spacing="17">INDEPENDIENTE</text>
+  <desc id="desc">Logotipo institucional OCI con composición tipográfica contemporánea.</desc>
+  <text x="70" y="82" fill="#17242b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="92" font-weight="750" letter-spacing="2">OCI</text>
+  <text x="305" y="76" fill="#17242b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="42" font-weight="650" letter-spacing="10">OBSERVATORIO</text>
+  <line x1="307" y1="102" x2="1125" y2="102" stroke="#c7a13a" stroke-width="3"/>
+  <circle cx="716" cy="102" r="7" fill="#c7a13a"/>
+  <text x="305" y="157" fill="#0e6e6b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="600" letter-spacing="7">CULTURAL INDEPENDIENTE</text>
 </svg>
