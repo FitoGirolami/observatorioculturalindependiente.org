@@ -1,7 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
-  <title id="title">Imagotipo del Observatorio Cultural Independiente</title>
-  <desc id="desc">Isotipo geométrico acompañado por el nombre institucional.</desc>
-  <image href="isotipo-oci.svg" x="18" y="18" width="264" height="264"/>
-  <text x="330" y="142" fill="#20282b" font-family="Georgia, 'Times New Roman', serif" font-size="75" letter-spacing="-2">OBSERVATORIO CULTURAL</text>
-  <text x="335" y="212" fill="#2f4438" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="15">INDEPENDIENTE</text>
+  <title id="title">Observatorio Cultural Independiente — OCI</title>
+  <desc id="desc">Imagotipo institucional con lente geométrica de observación y sigla OCI.</desc>
+
+  <g transform="translate(16 16) scale(.52)">
+    <g fill="none">
+      <circle cx="256" cy="256" r="166" stroke="#17242b" stroke-width="52"/>
+      <circle cx="256" cy="256" r="166" stroke="#0e6e6b" stroke-width="52" stroke-dasharray="245 798" transform="rotate(134 256 256)"/>
+      <circle cx="256" cy="256" r="166" stroke="#c7a13a" stroke-width="52" stroke-dasharray="72 971" transform="rotate(48 256 256)"/>
+      <circle cx="256" cy="256" r="116" stroke="#17242b" stroke-width="22" stroke-dasharray="520 210" transform="rotate(-20 256 256)"/>
+      <circle cx="256" cy="256" r="79" stroke="#17242b" stroke-width="9"/>
+    </g>
+    <circle cx="256" cy="256" r="55" fill="#17242b"/>
+    <circle cx="278" cy="232" r="12" fill="#ffffff"/>
+    <g stroke="#c7a13a" stroke-width="7" stroke-linecap="square">
+      <path d="M256 35v62"/><path d="M256 415v62"/><path d="M35 256h62"/><path d="M415 256h62"/>
+    </g>
+  </g>
+
+  <text x="322" y="122" fill="#17242b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="112" font-weight="750" letter-spacing="2">OCI</text>
+  <text x="326" y="188" fill="#17242b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="38" font-weight="650" letter-spacing="12">OBSERVATORIO</text>
+  <line x1="328" y1="211" x2="1165" y2="211" stroke="#c7a13a" stroke-width="3"/>
+  <circle cx="747" cy="211" r="7" fill="#c7a13a"/>
+  <text x="326" y="260" fill="#0e6e6b" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="600" letter-spacing="8">CULTURAL INDEPENDIENTE</text>
 </svg>
